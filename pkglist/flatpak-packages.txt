@@ -1,0 +1,17 @@
+app.zen_browser.zen
+com.mattjakeman.ExtensionManager
+com.unity.UnityHub
+org.freedesktop.LinuxAudio.Plugins.TAP
+org.freedesktop.LinuxAudio.Plugins.swh
+org.freedesktop.Platform
+org.freedesktop.Platform.Compat.i386
+org.freedesktop.Platform.GL.default
+org.freedesktop.Platform.GL.default
+org.freedesktop.Platform.GL.default
+org.freedesktop.Platform.GL.default
+org.freedesktop.Platform.codecs-extra
+org.freedesktop.Platform.ffmpeg-full
+org.freedesktop.Platform.openh264
+org.freedesktop.Sdk
+org.gnome.Platform
+org.kde.krita
