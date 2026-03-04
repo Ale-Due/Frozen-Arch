@@ -62,12 +62,15 @@ lib32-mesa
 libcurl-gnutls
 linux
 linux-firmware
+linux-zen
+linux-zen-headers
 loupe
 malcontent
 nano
 nautilus
 networkmanager
 orca
+pacman-contrib
 papirus-icon-theme
 rygel
 sassc
@@ -135,3 +138,4 @@ xorg-xwd
 xorg-xwininfo
 xorg-xwud
 yelp
+zram-generator
